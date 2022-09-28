@@ -1,4 +1,11 @@
--Foi criado um diretorio novo Aulas e Diagrama-classe
--Inicializei com git init
+-Foi criado um diretorio novo Aulas e diagrama-classes
+-Inicializei com git init na pasta Aula
+-Copiei os arquivos para a pasta diagrama-classes
 -adicionei os arquivos com: git add . 
--
+- Fiz commit com o comando: git commit -m "Exercicio Modelagem"
+- Conectei com o gitHub atraves dos comandos:
+ 	git remote add origin https://github.com/mmgarcia99/2022-CPTEI.git
+	git branch -M main
+	git push -u origin main
+
+
